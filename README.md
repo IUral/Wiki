@@ -18,6 +18,8 @@
 
 ### 6. Select Import Project and open the build.sbt file for your project
 
+### 7. **Use sbt.version=1.4.7**
+
 ### 7. Run WikipediaRanking
 
 ### 8. Go to SparkUI 
