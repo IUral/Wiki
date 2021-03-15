@@ -1,5 +1,6 @@
 .bsp
 .idea
 /null
-/project
+/project/**
+!/project/build.properties
 /target
