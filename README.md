@@ -20,9 +20,9 @@
 
 ### 7. **Use sbt.version=1.4.7**
 
-### 7. Run WikipediaRanking
+### 8. Run WikipediaRanking
 
-### 8. Go to SparkUI 
+### 9. Go to SparkUI 
 ```sh
 http://localhost:4040/
 ```
