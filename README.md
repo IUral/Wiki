@@ -5,7 +5,7 @@
 
 ### 1. You need to download the data (133 MB): https://moocs.scala-lang.org/~dockermoocs/bigdata/wikipedia.dat
 
-### 2. You need place it in the folder wikipedia.dat: `src/main/resources/wikipedia` in your project directory.
+### 2. You need wikipedia.dat file place it in the folder : `src/main/resources/wikipedia` in your project directory.
 
 ### 3. Installing the JDK - 8
 [![Build Status](https://www.portalprogramas.com/imagenes/programas/es/693/14693_1.media.jpg)](https://www.oracle.com/ru/java/technologies/javase/javase-jdk8-downloads.html)
