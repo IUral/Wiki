@@ -10,7 +10,7 @@
 ### 3. Installing the JDK - 8
 [![Build Status](https://www.portalprogramas.com/imagenes/programas/es/693/14693_1.media.jpg)](https://www.oracle.com/ru/java/technologies/javase/javase-jdk8-downloads.html)
 
-### 4. Installing sbt
+### 4. Installing sbt - 1.4.7
 [![Build Status](https://www.scala-sbt.org/release/docs/files/sbt-logo.svg)](https://www.scala-sbt.org/release/docs/Setup.html)
 
 ### 5. Open Intellij IDEA and Install Scala plugin
