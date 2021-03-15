@@ -50,3 +50,10 @@ http://localhost:4040/
 **Processing Part 1: naive ranking `${stop - start}` ms.**  
 **Processing Part 2: ranking using inverted index took `${stop - start}`  ms.**  
 **Processing Part 3: ranking using reduceByKey took `${stop - start}` ms.**
+
+- Processing Part 3 - дополнительно в этой функции выполняется операция 
+преобразование toDf(), затем происходит регистрация Data frame, 
+выполняется sql query и вызывается show(). На эти операции тратится 
+дополнительное время. Для уточнения реального времени выполнения функции 
+иcключи данные преобразования. 
+         
